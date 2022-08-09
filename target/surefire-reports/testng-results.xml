@@ -2,15 +2,15 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Regression Suite" duration-ms="2206" started-at="2022-08-09T08:27:40Z" finished-at="2022-08-09T08:27:42Z">
+  <suite name="Regression Suite" duration-ms="5505" started-at="2022-08-09T08:50:12Z" finished-at="2022-08-09T08:50:18Z">
     <groups>
       <group name="cucumber">
         <method signature="AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:tests.ContactUsTest@13a57a3b]" name="feature" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
       </group> <!-- cucumber -->
     </groups>
-    <test name="Regression Test" duration-ms="2206" started-at="2022-08-09T08:27:40Z" finished-at="2022-08-09T08:27:42Z">
+    <test name="Regression Test" duration-ms="5505" started-at="2022-08-09T08:50:12Z" finished-at="2022-08-09T08:50:18Z">
       <class name="tests.ContactUsTest">
-        <test-method status="PASS" signature="startDriver(java.lang.String)[pri:0, instance:tests.ContactUsTest@13a57a3b]" name="startDriver" is-config="true" duration-ms="5608" started-at="2022-08-09T08:27:34Z" finished-at="2022-08-09T08:27:40Z">
+        <test-method status="PASS" signature="startDriver(java.lang.String)[pri:0, instance:tests.ContactUsTest@13a57a3b]" name="startDriver" is-config="true" duration-ms="10526" started-at="2022-08-09T08:50:02Z" finished-at="2022-08-09T08:50:12Z">
           <params>
             <param index="0">
               <value>
@@ -21,19 +21,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startDriver -->
-        <test-method status="PASS" signature="setUpClass()[pri:0, instance:tests.ContactUsTest@13a57a3b]" name="setUpClass" is-config="true" duration-ms="155" started-at="2022-08-09T08:27:40Z" finished-at="2022-08-09T08:27:40Z">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:tests.ContactUsTest@13a57a3b]" name="setUpClass" is-config="true" duration-ms="150" started-at="2022-08-09T08:50:12Z" finished-at="2022-08-09T08:50:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method status="PASS" signature="UserCanUseContactUs()[pri:0, instance:tests.ContactUsTest@13a57a3b]" name="UserCanUseContactUs" duration-ms="2031" started-at="2022-08-09T08:27:40Z" finished-at="2022-08-09T08:27:42Z">
+        <test-method status="PASS" signature="UserCanUseContactUs()[pri:0, instance:tests.ContactUsTest@13a57a3b]" name="UserCanUseContactUs" duration-ms="5334" started-at="2022-08-09T08:50:13Z" finished-at="2022-08-09T08:50:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- UserCanUseContactUs -->
-        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:tests.ContactUsTest@13a57a3b]" name="tearDownClass" is-config="true" duration-ms="5" started-at="2022-08-09T08:27:42Z" finished-at="2022-08-09T08:27:42Z">
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:tests.ContactUsTest@13a57a3b]" name="tearDownClass" is-config="true" duration-ms="6" started-at="2022-08-09T08:50:18Z" finished-at="2022-08-09T08:50:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
-        <test-method status="PASS" signature="screenshotOnFailure(org.testng.ITestResult)[pri:0, instance:tests.ContactUsTest@13a57a3b]" name="screenshotOnFailure" is-config="true" duration-ms="0" started-at="2022-08-09T08:27:42Z" finished-at="2022-08-09T08:27:42Z">
+        <test-method status="PASS" signature="screenshotOnFailure(org.testng.ITestResult)[pri:0, instance:tests.ContactUsTest@13a57a3b]" name="screenshotOnFailure" is-config="true" duration-ms="0" started-at="2022-08-09T08:50:18Z" finished-at="2022-08-09T08:50:18Z">
           <params>
             <param index="0">
               <value>
@@ -44,7 +44,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- screenshotOnFailure -->
-        <test-method status="PASS" signature="stopDriver()[pri:0, instance:tests.ContactUsTest@13a57a3b]" name="stopDriver" is-config="true" duration-ms="107" started-at="2022-08-09T08:27:42Z" finished-at="2022-08-09T08:27:42Z">
+        <test-method status="PASS" signature="stopDriver()[pri:0, instance:tests.ContactUsTest@13a57a3b]" name="stopDriver" is-config="true" duration-ms="106" started-at="2022-08-09T08:50:18Z" finished-at="2022-08-09T08:50:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- stopDriver -->

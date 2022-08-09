@@ -16,16 +16,6 @@
           <include name="tearDownClass"/>
         </methods>
       </class> <!-- tests.UserRegistrationTestWithJavaFaker -->
-      <class name="tests.ProductHoverMenuTest">
-        <methods>
-          <include name="startDriver"/>
-          <include name="setUpClass"/>
-          <include name="stopDriver"/>
-          <include name="screenshotOnFailure"/>
-          <include name="tearDownClass"/>
-          <include name="UserCanSelectSubCategoryFromMainMenu"/>
-        </methods>
-      </class> <!-- tests.ProductHoverMenuTest -->
     </classes>
   </test> <!-- Regression Test(failed) -->
 </suite> <!-- Failed suite [Regression Suite] -->

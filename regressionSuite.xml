@@ -4,6 +4,7 @@
 	<test name="Regression Test" preserve-order="false">
 		<classes>
 			<class name="tests.ContactUsTest" />
+
 		</classes>
 	</test>
 </suite> 

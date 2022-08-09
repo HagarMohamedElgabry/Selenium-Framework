@@ -16,8 +16,8 @@ public class MyAccountTest extends TestBase
 	MyAccountPage myAccountObject ; 
 	String oldPassword = "12345678" ; 
 	String newPassword = "123456" ; 
-	String firstName = "Moataz" ; 
-	String lastName = "Nabil" ; 
+	String firstName = "Hagar" ;
+	String lastName = "Elgabry" ;
 	String email = "test399@gmail.com" ; 
 	
 
