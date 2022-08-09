@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="254.89" tests="5" errors="0" skipped="0" failures="2">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="8.162" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="gopherProxySet" value="false"/>
     <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
@@ -17,7 +17,7 @@
     <property name="user.country" value="EG"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_291.jdk/Contents/Home/jre/lib"/>
-    <property name="sun.java.command" value="/Users/hagar.abdelsamad/Documents/GitHub/Selenium-Framework/target/surefire/surefirebooter4080487144055229204.jar /Users/hagar.abdelsamad/Documents/GitHub/Selenium-Framework/target/surefire 2022-08-08T12-59-31_175-jvmRun1 surefire4092402807847060548tmp surefire_05341090010809821300tmp"/>
+    <property name="sun.java.command" value="/Users/hagar.abdelsamad/Documents/GitHub/Selenium-Framework/target/surefire/surefirebooter8739525481761132368.jar /Users/hagar.abdelsamad/Documents/GitHub/Selenium-Framework/target/surefire 2022-08-09T10-27-34_265-jvmRun1 surefire2261607850712586106tmp surefire_01375837021157173849tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="surefire.test.class.path" value="/Users/hagar.abdelsamad/Documents/GitHub/Selenium-Framework/target/test-classes:/Users/hagar.abdelsamad/Documents/GitHub/Selenium-Framework/target/classes:/Users/hagar.abdelsamad/.m2/repository/com/codeborne/phantomjsdriver/1.4.4/phantomjsdriver-1.4.4.jar:/Users/hagar.abdelsamad/.m2/repository/org/seleniumhq/selenium/selenium-api/3.8.1/selenium-api-3.8.1.jar:/Users/hagar.abdelsamad/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.8.1/selenium-remote-driver-3.8.1.jar:/Users/hagar.abdelsamad/.m2/repository/info/cukes/cucumber-core/1.2.5/cucumber-core-1.2.5.jar:/Users/hagar.abdelsamad/.m2/repository/info/cukes/cucumber-html/0.2.3/cucumber-html-0.2.3.jar:/Users/hagar.abdelsamad/.m2/repository/info/cukes/cucumber-jvm-deps/1.0.5/cucumber-jvm-deps-1.0.5.jar:/Users/hagar.abdelsamad/.m2/repository/info/cukes/cucumber-testng/1.2.5/cucumber-testng-1.2.5.jar:/Users/hagar.abdelsamad/.m2/repository/info/cukes/gherkin/2.12.2/gherkin-2.12.2.jar:/Users/hagar.abdelsamad/.m2/repository/info/cukes/cucumber-java/1.2.5/cucumber-java-1.2.5.jar:/Users/hagar.abdelsamad/.m2/repository/org/testng/testng/6.14.3/testng-6.14.3.jar:/Users/hagar.abdelsamad/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/Users/hagar.abdelsamad/.m2/repository/org/apache-extras/beanshell/bsh/2.0b6/bsh-2.0b6.jar:/Users/hagar.abdelsamad/.m2/repository/org/seleniumhq/selenium/selenium-java/3.12.0/selenium-java-3.12.0.jar:/Users/hagar.abdelsamad/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.12.0/selenium-chrome-driver-3.12.0.jar:/Users/hagar.abdelsamad/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/3.12.0/selenium-edge-driver-3.12.0.jar:/Users/hagar.abdelsamad/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/3.12.0/selenium-firefox-driver-3.12.0.jar:/Users/hagar.abdelsamad/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/3.12.0/selenium-ie-driver-3.12.0.jar:/Users/hagar.abdelsamad/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/3.12.0/selenium-opera-driver-3.12.0.jar:/Users/hagar.abdelsamad/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/3.12.0/selenium-safari-driver-3.12.0.jar:/Users/hagar.abdelsamad/.m2/repository/org/seleniumhq/selenium/selenium-support/3.12.0/selenium-support-3.12.0.jar:/Users/hagar.abdelsamad/.m2/repository/net/bytebuddy/byte-buddy/1.8.3/byte-buddy-1.8.3.jar:/Users/hagar.abdelsamad/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/hagar.abdelsamad/.m2/repository/commons-codec/commons-codec/1.10/commons-codec-1.10.jar:/Users/hagar.abdelsamad/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/hagar.abdelsamad/.m2/repository/com/google/code/gson/gson/2.8.2/gson-2.8.2.jar:/Users/hagar.abdelsamad/.m2/repository/com/google/guava/guava/23.6-jre/guava-23.6-jre.jar:/Users/hagar.abdelsamad/.m2/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar:/Users/hagar.abdelsamad/.m2/repository/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar:/Users/hagar.abdelsamad/.m2/repository/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar:/Users/hagar.abdelsamad/.m2/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar:/Users/hagar.abdelsamad/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar:/Users/hagar.abdelsamad/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar:/Users/hagar.abdelsamad/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar:/Users/hagar.abdelsamad/.m2/repository/com/squareup/okhttp3/okhttp/3.9.1/okhttp-3.9.1.jar:/Users/hagar.abdelsamad/.m2/repository/com/squareup/okio/okio/1.13.0/okio-1.13.0.jar:/Users/hagar.abdelsamad/.m2/repository/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17.jar:/Users/hagar.abdelsamad/.m2/repository/org/apache/poi/poi/3.17/poi-3.17.jar:/Users/hagar.abdelsamad/.m2/repository/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1.jar:/Users/hagar.abdelsamad/.m2/repository/org/apache/poi/poi-ooxml-schemas/3.17/poi-ooxml-schemas-3.17.jar:/Users/hagar.abdelsamad/.m2/repository/org/apache/xmlbeans/xmlbeans/2.6.0/xmlbeans-2.6.0.jar:/Users/hagar.abdelsamad/.m2/repository/stax/stax-api/1.0.1/stax-api-1.0.1.jar:/Users/hagar.abdelsamad/.m2/repository/com/github/virtuald/curvesapi/1.04/curvesapi-1.04.jar:/Users/hagar.abdelsamad/.m2/repository/com/opencsv/opencsv/4.1/opencsv-4.1.jar:/Users/hagar.abdelsamad/.m2/repository/org/apache/commons/commons-lang3/3.6/commons-lang3-3.6.jar:/Users/hagar.abdelsamad/.m2/repository/org/apache/commons/commons-text/1.1/commons-text-1.1.jar:/Users/hagar.abdelsamad/.m2/repository/commons-beanutils/commons-beanutils/1.9.3/commons-beanutils-1.9.3.jar:/Users/hagar.abdelsamad/.m2/repository/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar:/Users/hagar.abdelsamad/.m2/repository/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar:/Users/hagar.abdelsamad/.m2/repository/junit/junit/4.10/junit-4.10.jar:/Users/hagar.abdelsamad/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar:/Users/hagar.abdelsamad/.m2/repository/com/github/javafaker/javafaker/0.15/javafaker-0.15.jar:/Users/hagar.abdelsamad/.m2/repository/org/yaml/snakeyaml/1.20/snakeyaml-1.20-android.jar:/Users/hagar.abdelsamad/.m2/repository/com/github/mifmif/generex/1.0.2/generex-1.0.2.jar:/Users/hagar.abdelsamad/.m2/repository/dk/brics/automaton/automaton/1.11-8/automaton-1.11-8.jar:/Users/hagar.abdelsamad/.m2/repository/org/apache/maven/surefire/surefire-testng-utils/2.21.0/surefire-testng-utils-2.21.0.jar:/Users/hagar.abdelsamad/.m2/repository/org/apache/maven/surefire/surefire-grouper/2.21.0/surefire-grouper-2.21.0.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -31,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/Users/hagar.abdelsamad/Documents/GitHub/Selenium-Framework/target/surefire/surefirebooter4080487144055229204.jar"/>
+    <property name="surefire.real.class.path" value="/Users/hagar.abdelsamad/Documents/GitHub/Selenium-Framework/target/surefire/surefirebooter8739525481761132368.jar"/>
     <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_291.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_291.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_291.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_291.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_291.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_291.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_291.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_291.jdk/Contents/Home/jre/classes"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
@@ -61,57 +61,5 @@
     <property name="java.class.version" value="52.0"/>
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
   </properties>
-  <testcase name="UserCanSelectSubCategoryFromMainMenu" classname="tests.ProductHoverMenuTest" time="120.162">
-    <failure message="Unable to convert: {actions=[org.openqa.selenium.interactions.Sequence@44a972b4]}" type="org.openqa.selenium.WebDriverException">org.openqa.selenium.WebDriverException: Unable to convert: {actions=[org.openqa.selenium.interactions.Sequence@44a972b4]}
-	at tests.ProductHoverMenuTest.UserCanSelectSubCategoryFromMainMenu(ProductHoverMenuTest.java:16)
-Caused by: org.openqa.selenium.WebDriverException: Unable to convert: {actions=[org.openqa.selenium.interactions.Sequence@44a972b4]}
-	at tests.ProductHoverMenuTest.UserCanSelectSubCategoryFromMainMenu(ProductHoverMenuTest.java:16)
-Caused by: org.openqa.selenium.WebDriverException: 
-java.lang.reflect.InvocationTargetException
-Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
-System info: host: 'EG-HABDELSAMAD-MAC.local', ip: 'fe80:0:0:0:14c7:e76:1b8c:fce3%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_291'
-Driver info: driver.version: RemoteWebDriver
-	at tests.ProductHoverMenuTest.UserCanSelectSubCategoryFromMainMenu(ProductHoverMenuTest.java:16)
-Caused by: java.lang.reflect.InvocationTargetException
-	at tests.ProductHoverMenuTest.UserCanSelectSubCategoryFromMainMenu(ProductHoverMenuTest.java:16)
-Caused by: org.openqa.selenium.NoSuchElementException: 
-no such element: Unable to locate element: {"method":"link text","selector":"Notebooks"}
-  (Session info: chrome=104.0.5112.79)
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
-System info: host: 'EG-HABDELSAMAD-MAC.local', ip: 'fe80:0:0:0:14c7:e76:1b8c:fce3%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_291'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.79, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: /var/folders/ns/v9wg6yn94zl...}, goog:chromeOptions: {debuggerAddress: localhost:55916}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: c5112c360a5aab3677feb1f23c635dbb
-*** Element info: {Using=link text, value=Notebooks}
-	at tests.ProductHoverMenuTest.UserCanSelectSubCategoryFromMainMenu(ProductHoverMenuTest.java:16)
-</failure>
-    <system-out><![CDATA[No features found at [classpath:tests]
-]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 103.0.5060.53 (a1711811edd74ff1cf2150f36ffa3b0dae40b17f-refs/branch-heads/5060@{#853}) on port 46580
-Only local connections are allowed.
-Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
-ChromeDriver was started successfully.
-[1659956377.359][WARNING]: This version of ChromeDriver has not been tested with Chrome version 104.
-Aug 08, 2022 12:59:37 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: W3C
-]]></system-err>
-  </testcase>
-  <testcase name="UserCanUseContactUs" classname="tests.ContactUsTest" time="1.809"/>
-  <testcase name="UserCanRegisterSuccssfully" classname="tests.UserRegistrationTestWithJavaFaker" time="2.355"/>
-  <testcase name="RegisteredUserCanLogout" classname="tests.UserRegistrationTestWithJavaFaker" time="1.021"/>
-  <testcase name="RegisteredUserCanLogin" classname="tests.UserRegistrationTestWithJavaFaker" time="120.871">
-    <failure message="no such element: Unable to locate element: {&quot;method&quot;:&quot;css selector&quot;,&quot;selector&quot;:&quot;input.button-1.login-button&quot;}&#10;  (Session info: chrome=104.0.5112.79)&#10;For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: &apos;3.8.1&apos;, revision: &apos;6e95a6684b&apos;, time: &apos;2017-12-01T18:33:54.468Z&apos;&#10;System info: host: &apos;EG-HABDELSAMAD-MAC.local&apos;, ip: &apos;fe80:0:0:0:14c7:e76:1b8c:fce3%en0&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.16&apos;, java.version: &apos;1.8.0_291&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.79, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: /var/folders/ns/v9wg6yn94zl...}, goog:chromeOptions: {debuggerAddress: localhost:55916}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}&#10;Session ID: c5112c360a5aab3677feb1f23c635dbb&#10;*** Element info: {Using=css selector, value=input.button-1.login-button}" type="org.openqa.selenium.NoSuchElementException">org.openqa.selenium.NoSuchElementException: 
-no such element: Unable to locate element: {"method":"css selector","selector":"input.button-1.login-button"}
-  (Session info: chrome=104.0.5112.79)
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
-System info: host: 'EG-HABDELSAMAD-MAC.local', ip: 'fe80:0:0:0:14c7:e76:1b8c:fce3%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_291'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.79, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: /var/folders/ns/v9wg6yn94zl...}, goog:chromeOptions: {debuggerAddress: localhost:55916}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: c5112c360a5aab3677feb1f23c635dbb
-*** Element info: {Using=css selector, value=input.button-1.login-button}
-	at tests.UserRegistrationTestWithJavaFaker.RegisteredUserCanLogin(UserRegistrationTestWithJavaFaker.java:47)
-</failure>
-  </testcase>
+  <testcase name="UserCanUseContactUs" classname="tests.ContactUsTest" time="2.031"/>
 </testsuite>
